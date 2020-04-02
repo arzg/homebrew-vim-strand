@@ -1,4 +1,4 @@
-class VimStrand < Formula
+class Strand < Formula
   desc "A barebones Vim plugin manger written in Rust"
   homepage "https://github.com/arzg/vim-strand"
   url "https://github.com/arzg/vim-strand/releases/download/v0.4.0/strand-macos-latest.zip"
